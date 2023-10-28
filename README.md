@@ -2,8 +2,8 @@
 Código com a implementação da heurística Teitz e Bart no trabalho: Localização de escolas para oferta de educação em tempo integral: uma aplicação do modelo das p-medianas com uso de ferramentas de GIS.
 
 ## Desenvolvido por:
-Candace Quezia Andrade Vasconcelos 
-Nikolas Jonathan Makiya Vichi
+- Candace Quezia Andrade Vasconcelos
+- Nikolas Jonathan Makiya Vichi
 
 Alunos de mestrado no Programa de Pós-Graduação em Pesquisa Operacional oferecido em associação da Universidade Federal de São Paulo (UNIFESP) e o Instituto Tecnológico de Aeronáutica (ITA).
 
